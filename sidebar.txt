@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pir:home|Door43 (pir)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pir|d43-pir repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pir/archive/master.zip|d43-pir.zip]]
+
+**Recent Changes**
+{{changes>ns = pir}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pir|Ethnologue data]]
+
